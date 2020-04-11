@@ -1,0 +1,63 @@
+.card {
+    padding: 1em;
+  }
+  
+  .card-body {
+    padding: 0.6em !important;
+  }
+  
+  .card-subtitle {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .card-title {
+    display: flex;
+    justify-content: center;
+  
+    p:nth-child(1) {
+      padding-right: 5px;
+    }
+  }
+  
+  .card-subtitle {
+    p:nth-child(1) {
+      padding-right: 5px;
+    }
+  
+    margin-bottom: 10px !important;
+    font-size: 15px;
+  }
+  
+  .card-title {
+    margin-top: .75em;
+  }
+
+  .instruction_box {
+      padding: 2em;
+      margin: auto;
+  }
+  .form-group {
+    margin-bottom: 1rem;
+    display: block;
+    margin: auto;
+}
+
+.city_container {
+  height: 35vw;
+  overflow-y: scroll;
+  padding: 25px;
+  background-color: beige;
+}
+.city_container li {
+  list-style: none;
+ }
+ .map_container {
+  height: 455px;
+  width: 634px;
+}
+.row{
+  margin-right: 0px !important;
+}
+
+
