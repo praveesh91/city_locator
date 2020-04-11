@@ -1,3 +1,9 @@
+Please find the gif with the workflow of the application
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/9131336/79041295-57a36800-7c0c-11ea-926c-2b60a4cff3d8.gif)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
