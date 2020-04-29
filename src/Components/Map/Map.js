@@ -41,6 +41,8 @@ export class MapContainer extends PureComponent {
           const latitude = data.lat
           const longitude = data.lng
 
+          console.log(latitude)
+
           // this.setState({
           //   coordinates: [...this.state.coordinates, data.lng]
           //   }, ()=>console.log("object"))     
