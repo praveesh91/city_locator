@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/city_locator/static/css/main.b3d26884.chunk.css",
+    "main.js": "/city_locator/static/js/main.3a3bdd58.chunk.js",
+    "main.js.map": "/city_locator/static/js/main.3a3bdd58.chunk.js.map",
+    "runtime-main.js": "/city_locator/static/js/runtime-main.f41622c9.js",
+    "runtime-main.js.map": "/city_locator/static/js/runtime-main.f41622c9.js.map",
+    "static/css/2.de424728.chunk.css": "/city_locator/static/css/2.de424728.chunk.css",
+    "static/js/2.adfd1bc1.chunk.js": "/city_locator/static/js/2.adfd1bc1.chunk.js",
+    "static/js/2.adfd1bc1.chunk.js.map": "/city_locator/static/js/2.adfd1bc1.chunk.js.map",
+    "index.html": "/city_locator/index.html",
+    "precache-manifest.675b03610c485248046c7fe4875ac9a5.js": "/city_locator/precache-manifest.675b03610c485248046c7fe4875ac9a5.js",
+    "service-worker.js": "/city_locator/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/city_locator/static/css/2.de424728.chunk.css.map",
+    "static/css/main.b3d26884.chunk.css.map": "/city_locator/static/css/main.b3d26884.chunk.css.map",
+    "static/js/2.adfd1bc1.chunk.js.LICENSE.txt": "/city_locator/static/js/2.adfd1bc1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f41622c9.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.adfd1bc1.chunk.js",
+    "static/css/main.b3d26884.chunk.css",
+    "static/js/main.3a3bdd58.chunk.js"
+  ]
+}
